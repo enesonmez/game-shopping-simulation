@@ -13,7 +13,7 @@ namespace GameShopppingSimulation
                 Id=1,
                 FirstName="ENES",
                 LastName="SÖNMEZ",
-                IdentityNo=44428837022,
+                IdentityNo=22222222222,
                 BirthDay=new DateTime(1999,11,12)
             };
 
